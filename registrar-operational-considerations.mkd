@@ -23,10 +23,10 @@ author:
   org: Sandelman Software Works
   email: mcr+ietf@sandelman.ca
 
-- ins: W. Pan
-  name: Wei Pan
-  org: Huawei Technologies
-  email: william.panwei@huawei.com
+- ins: T. Werner
+  name: Thomas Werner
+  org: Siemens AG
+  email: thomas-werner@siemens.com
 
 normative:
   RFC8174:
