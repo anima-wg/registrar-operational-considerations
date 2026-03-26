@@ -1,7 +1,7 @@
 ---
 title: Operational Considerations for BRSKI Registrar
 abbrev: Registrar Considerations
-docname: draft-ietf-anima-registrar-considerations-02
+docname: draft-ietf-anima-registrar-considerations-03
 
 stand_alone: true
 
@@ -17,7 +17,6 @@ pi:    # can use array (if all yes) or hash here
 
 author:
 
-
 - ins: M. Richardson
   name: Michael Richardson
   org: Sandelman Software Works
@@ -27,6 +26,10 @@ author:
   name: Thomas Werner
   org: Siemens AG
   email: thomas-werner@siemens.com
+
+- fullname: Chunchi Peter Liu
+  organization: Huawei
+  email: liuchunchi@huawei.com
 
 normative:
   RFC8174:
